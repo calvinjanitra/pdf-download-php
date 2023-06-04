@@ -95,10 +95,9 @@
 				<div class='border-2 border-solid px-4 py-2 rounded-lg hover:bg-blue-300 flex items-center gap-x-4'>
 					<h3>More Filters</h3>
 				</div>
-				<div class='w-1/4 border-2 border-solid px-4 py-2 rounded-lg hover:bg-blue-300 flex items-center gap-x-2'>
-					<img src="asset/search.png" alt="" width='30px'>
-					<h3>Search...</h3>
-				</div>
+				<a class='w-fit border-2 border-solid px-8 py-2 rounded-lg hover:bg-blue-300 flex justify-center items-center gap-x-4' href="exportpdf.php">
+					<h3>Export PDF</h3>
+				</a>
 			</div>
 			<div class='w-full'>
 				<table class="table w-full text-center text-lg shadow-lg">
